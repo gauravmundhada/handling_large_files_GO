@@ -66,3 +66,6 @@
 
   See architecture.md for component diagrams, data flow, and TODOs.
 
+  Results 
+  ![Results](./Results_1million_rows.png)
+
